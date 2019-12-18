@@ -1,0 +1,14 @@
+C:\Users\Renan\Documents\Visual Studio 2017\Projects\Pokedex.API\Pokedex.API\obj\Debug\netcoreapp2.2\Pokedex.API.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Documents\Visual Studio 2017\Projects\Pokedex.API\Pokedex.API\obj\Debug\netcoreapp2.2\Pokedex.API.AssemblyInfoInputs.cache
+C:\Users\Renan\Documents\Visual Studio 2017\Projects\Pokedex.API\Pokedex.API\obj\Debug\netcoreapp2.2\Pokedex.API.AssemblyInfo.cs
+C:\Users\Renan\Documents\Visual Studio 2017\Projects\Pokedex.API\Pokedex.API\bin\Debug\netcoreapp2.2\Pokedex.API.deps.json
+C:\Users\Renan\Documents\Visual Studio 2017\Projects\Pokedex.API\Pokedex.API\bin\Debug\netcoreapp2.2\Pokedex.API.runtimeconfig.json
+C:\Users\Renan\Documents\Visual Studio 2017\Projects\Pokedex.API\Pokedex.API\bin\Debug\netcoreapp2.2\Pokedex.API.runtimeconfig.dev.json
+C:\Users\Renan\Documents\Visual Studio 2017\Projects\Pokedex.API\Pokedex.API\bin\Debug\netcoreapp2.2\Pokedex.API.dll
+C:\Users\Renan\Documents\Visual Studio 2017\Projects\Pokedex.API\Pokedex.API\bin\Debug\netcoreapp2.2\Pokedex.API.pdb
+C:\Users\Renan\Documents\Visual Studio 2017\Projects\Pokedex.API\Pokedex.API\obj\Debug\netcoreapp2.2\Pokedex.API.csprojAssemblyReference.cache
+C:\Users\Renan\Documents\Visual Studio 2017\Projects\Pokedex.API\Pokedex.API\obj\Debug\netcoreapp2.2\Pokedex.API.RazorAssemblyInfo.cache
+C:\Users\Renan\Documents\Visual Studio 2017\Projects\Pokedex.API\Pokedex.API\obj\Debug\netcoreapp2.2\Pokedex.API.RazorAssemblyInfo.cs
+C:\Users\Renan\Documents\Visual Studio 2017\Projects\Pokedex.API\Pokedex.API\obj\Debug\netcoreapp2.2\Pokedex.API.RazorTargetAssemblyInfo.cache
+C:\Users\Renan\Documents\Visual Studio 2017\Projects\Pokedex.API\Pokedex.API\obj\Debug\netcoreapp2.2\Pokedex.API.dll
+C:\Users\Renan\Documents\Visual Studio 2017\Projects\Pokedex.API\Pokedex.API\obj\Debug\netcoreapp2.2\Pokedex.API.pdb
